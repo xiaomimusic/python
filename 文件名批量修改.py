@@ -1,3 +1,5 @@
+# 文件名批量修改工具
+
 import os
 
 print('''
